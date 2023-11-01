@@ -1,2 +1,2 @@
 # Animated-Login-page
-[https://huydoduc.github.io/Animated-Login-page/](View this webpage)
+[View this webpage](https://huydoduc.github.io/Animated-Login-page/)
